@@ -17,3 +17,29 @@
 - Add NEW template
 - Add CREATE route
 - Add CREATE template
+
+# SHOWtime - Adding in the "SHOW" Route & Templates
+
+- Add Show route
+- Add Show template
+- Add links to show pages
+- Style Show template
+
+# EDIT/UPDATE Routes
+
+- Add Edit Route
+- Add Edit Form
+- Add Update Route
+- Add Update Form
+- Add Method-Override
+
+# DESTROYyyyying Data
+
+- Add DESTROY route
+- Add Edit and Destroy links
+
+# Final Edits/Updates & Stylization
+
+- Sanitize blog body input from user (so as not to allow user to write & submit malicious code)
+- Style Index ("root" or "home") page
+- Update REST Table

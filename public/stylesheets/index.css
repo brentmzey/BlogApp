@@ -2,6 +2,14 @@ i.icon {
   font-size: 1.25rem;
 }
 
+/* .ui.fixed.inverted.menu {
+  margin-bottom: 1.5em;
+} */
+
 .container.main {
   margin-top: 7em;
+}
+
+#delete {
+  display: inline;
 }
